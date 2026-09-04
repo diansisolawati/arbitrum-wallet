@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>ArbWallet.Core</RootNamespace>
+    <AssemblyName>ArbWallet.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
